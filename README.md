@@ -4,10 +4,15 @@ Using poker Evaluator
 
 # Routes Plan
   / Method:GET
+  
   /SignIn Method: POST
+  
   /SignUp Method: POST
+  
   /Home Method:GET
+  
   /TableName Method:GET
+  
   /EditProfile Method:PATCH
 
 # WireFrames
