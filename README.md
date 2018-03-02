@@ -2,6 +2,13 @@
 React native Texas Holdem  application
 Using poker Evaluator
 
+# Routes Plan
+  / Method:GET
+  /SignIn Method: POST
+  /SignUp Method: POST
+  /Home Method:GET
+  /TableName Method:GET
+  /EditProfile Method:PATCH
 
 # WireFrames
 ![new mockup 1](https://user-images.githubusercontent.com/31579495/36922015-ac3bb62c-1e23-11e8-992f-0e09d72ef7b1.png)
