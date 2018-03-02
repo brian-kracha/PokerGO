@@ -2,6 +2,10 @@
 React native Texas Holdem  application
 Using poker Evaluator
 
+# Color Scheme
+![image](https://user-images.githubusercontent.com/29336911/36923102-6d88c434-1e27-11e8-8955-3ce1a7cd9c5b.png)
+![image](https://user-images.githubusercontent.com/29336911/36923123-8904f214-1e27-11e8-817a-6c6118a28692.png)
+
 # Routes Plan
   / Method:GET
   
