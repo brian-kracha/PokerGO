@@ -1,0 +1,15 @@
+dependencies: \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/node_modules/react-native/React/Modules/RCTLayoutAnimation.m \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/node_modules/react-native/React/Modules/RCTLayoutAnimation.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

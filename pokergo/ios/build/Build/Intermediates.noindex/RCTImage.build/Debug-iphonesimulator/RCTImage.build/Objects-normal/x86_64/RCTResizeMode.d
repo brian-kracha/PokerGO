@@ -1,0 +1,15 @@
+dependencies: \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/node_modules/react-native/Libraries/Image/RCTResizeMode.m \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Bis_Hal/g68/PokerGO/pokergo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
